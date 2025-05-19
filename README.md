@@ -1,16 +1,22 @@
-## Hi there 👋
+![Profil](image/banner.jpg)
 
-<!--
-**Mdayyu/Mdayyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 Saat ini Saya Sedang Belajar:
+- 🔧 Frontend: ReactJS (Vite), Tailwind CSS
+- 🛠️ Backend: Spring Boot, Express.js
+- 🧠 Kecerdasan Buatan: Python untuk Data Mining dan Machine Learning
+- 🕶️ Augmented Reality
+- 🗃️ Big Data: Hadoop dan Sqoop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Kontak Saya:
+- 📧 Email: `mdayyu3@gmail.com`
+- 🌐 Website/Portofolio: [mdayyu.vercel.app](https://mdayyu.vercel.app)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ni-made-ayu-sukmawardani-879664325/](https://www.linkedin.com/in/ni-made-ayu-sukmawardani-879664325/)
+
+
+---
+
+> Terima kasih sudah mampir ke profil saya! Jangan ragu untuk melihat-lihat repositori saya 😄
