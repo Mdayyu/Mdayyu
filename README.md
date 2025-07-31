@@ -1,6 +1,5 @@
-![Profil](image/banner.jpg)
 
----
+
 
 
 ### 📫 Kontak Saya:
